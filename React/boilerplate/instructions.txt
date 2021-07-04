@@ -1,0 +1,51 @@
+Projeto em Next.js
+https://nextjs.org/docs/getting-started
+
+Ferramentas usadas
+Yarn
+https://yarnpkg.com/
+
+Node
+https://nodejs.org/en/
+
+Comando de criação de Projeto
+npx create-next-app / yarn create next-app
+
+Comando para rodar o Projeto
+npx run dev / yarn dev
+
+----------------------------------------
+Typescript
+https://nextjs.org/docs/basic-features/typescript
+
+Configurando o Typescript com o Next
+Comando: touch tsconfig.json e rodar: npx run dev / yarn dev
+
+Instalar as dependencias para o funcionamento do Typescript
+yarn add --dev typescript @types/react
+
+Após rodar o comando: npx run dev / yarn dev 
+
+----------------------------------------
+EditorConfig
+https://editorconfig.org/
+
+Define certas regras para o editor, onde toda vez que crie ou inicie um novo arquivo ele siga essas regras.
+
+----------------------------------------
+ESLint
+https://eslint.org/
+Força regras de código para hooks e etc
+
+ESLint plugin react hooks
+https://www.npmjs.com/package/eslint-plugin-react-hooks
+
+----------------------------------------
+Prettier
+https://prettier.io/docs/en/install.html
+Serve para formatar automaticamente o código nos padrões visuais.
+
+Configuração com o ESLint
+https://github.com/prettier/eslint-config-prettier#installation
+
+----------------------------------------
